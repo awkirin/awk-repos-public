@@ -14,7 +14,7 @@
 ||claude.ai
 ||claude.com
 
-||telegram.org
+! ||telegram.org
 
 ||onlinetimer.ru
 
